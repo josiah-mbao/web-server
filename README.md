@@ -38,15 +38,13 @@ Once the server is running, you can send requests using a web browser or curl:
    ```bash
    curl http://localhost:8080
 
-You should see a response showing that the server is up and running
+### Contributing
+I welcome contributions to this project! If you’d like to contribute, please fork the repository and submit a pull request. Feel free to suggest features or improvements
 
-## Contributing
-I welcome contributions to this project! If you’d like to contribute, please fork the repository and submit a pull request. Feel free to suggest features or improvements.
+### Future Plans
+- Enhance the server with more features and capabilities
+- Explore concurrency and multithreading in C++
+- Optimize performance for handling multiple client requests
 
-## Future Plans
-- Enhance the server with more features and capabilities.
-- Explore concurrency and multithreading in C++.
-- Optimize performance for handling multiple client requests.
-
-## License
-This project is open-source and available under the MIT License.
+### License
+This project is open-source and available under the MIT License
