@@ -37,6 +37,7 @@ To build and run the server, follow these steps:
 Once the server is running, you can send requests using a web browser or curl:
    ```bash
    curl http://localhost:8080
+
 You should see a response showing that the server is up and running
 
 ## Contributing
